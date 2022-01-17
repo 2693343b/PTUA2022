@@ -1,0 +1,1 @@
+chat = "hello" print(chat)
